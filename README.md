@@ -34,7 +34,7 @@ I am a Fullstack Developer from Bucharest,  experienced in creating web applicat
 ## 🤓 I want to learn:
 ▶ Angular
 
-▶ and improve my knowlegde on testing
+▶ and improve my knowledge on testing
 
 ## Outside of coding I enjoy:
 
